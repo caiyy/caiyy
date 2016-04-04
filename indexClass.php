@@ -1,0 +1,1 @@
+<h1>欢迎来到 <?php echo $xt_name; ?> 后台</h1>
